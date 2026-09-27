@@ -17,14 +17,32 @@ I'm open to research collaborations and industry opportunities. Email me or [boo
 
 #### Selected work
 
-| Work | Venue | Links |
-| --- | --- | --- |
-| Attention Sinks and Outliers in Attention Residuals (OASIS) | NeurIPS 2026 · Spotlight at Efficient Reasoning @ COLM 2026 | [Project](https://oasis-research.github.io/) · [arXiv](https://arxiv.org/abs/2605.17887) · [Code](https://github.com/robinzixuan/OASIS) |
-| VectorGym: A Multi-Task Benchmark for SVG Code Generation, Sketching and Editing | EMNLP 2026 | [arXiv](https://arxiv.org/abs/2603.29852) |
-| TIDES: Test-time Inference Drift Exploitation via Scaling | ES-Reasoning @ ICLR 2026 | [Project](https://haorandai.com/tides-paper/) |
-| When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models | Principled Design for Trustworthy AI @ ICLR 2026 | [arXiv](https://arxiv.org/abs/2603.06508) |
-| Practical, Generalizable and Robust Backdoor Attacks on Text-to-Image Diffusion Models | arXiv 2025 | [Project](https://haorandai.com/practical-t2i-backdoors/) · [Code](https://github.com/haorandai/backdoorT2I) |
-| EvilPromptFuzzer: Generating Inappropriate Content Based on Text-to-Image Models | Cybersecurity 2024 | [Paper](https://link.springer.com/article/10.1186/s42400-024-00279-9) |
+<table>
+<tr>
+<td width="34%"><a href="https://oasis-research.github.io/"><img src="assets/pubs/oasis.jpg" alt="Attention Sinks and Outliers in Attention Residuals (OASIS) overview figure" width="100%"></a></td>
+<td><b><a href="https://oasis-research.github.io/">Attention Sinks and Outliers in Attention Residuals (OASIS)</a></b><br><sub>NeurIPS 2026 · Spotlight at Efficient Reasoning @ COLM 2026</sub><br><br>Suppresses attention sinks and activation outliers in attention-residual transformers, improving inference stability and quantization robustness.<br><br><a href="https://oasis-research.github.io/">Project</a> · <a href="https://arxiv.org/abs/2605.17887">arXiv</a> · <a href="https://github.com/robinzixuan/OASIS">Code</a></td>
+</tr>
+<tr>
+<td width="34%"><a href="https://arxiv.org/abs/2603.29852"><img src="assets/pubs/vectorgym.jpg" alt="VectorGym: A Multi-Task Benchmark for SVG Code Generation, Sketching and Editing overview figure" width="100%"></a></td>
+<td><b><a href="https://arxiv.org/abs/2603.29852">VectorGym: A Multi-Task Benchmark for SVG Code Generation, Sketching and Editing</a></b><br><sub>EMNLP 2026</sub><br><br>A multi-task benchmark for SVG generation, sketching, editing, and captioning, with a multi-task reinforcement-learning method on rendering-based rewards.<br><br><a href="https://arxiv.org/abs/2603.29852">arXiv</a></td>
+</tr>
+<tr>
+<td width="34%"><a href="https://haorandai.com/tides-paper/"><img src="assets/pubs/tides.jpg" alt="TIDES: Test-time Inference Drift Exploitation via Scaling overview figure" width="100%"></a></td>
+<td><b><a href="https://haorandai.com/tides-paper/">TIDES: Test-time Inference Drift Exploitation via Scaling</a></b><br><sub>ES-Reasoning @ ICLR 2026</sub><br><br>A reasoning attack exposing a failure mode of test-time scaling: extending reasoning depth degrades accuracy rather than improving it.<br><br><a href="https://haorandai.com/tides-paper/">Project</a></td>
+</tr>
+<tr>
+<td width="34%"><a href="https://arxiv.org/abs/2603.06508"><img src="assets/pubs/modality.jpg" alt="When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models overview figure" width="100%"></a></td>
+<td><b><a href="https://arxiv.org/abs/2603.06508">When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models</a></b><br><sub>Principled Design for Trustworthy AI @ ICLR 2026</sub><br><br>Poisoning several modalities of a multimodal diffusion model makes one modality dominate the backdoor instead of reinforcing it.<br><br><a href="https://arxiv.org/abs/2603.06508">arXiv</a></td>
+</tr>
+<tr>
+<td width="34%"><a href="https://haorandai.com/practical-t2i-backdoors/"><img src="assets/pubs/t2i-backdoor.jpg" alt="Practical, Generalizable and Robust Backdoor Attacks on Text-to-Image Diffusion Models overview figure" width="100%"></a></td>
+<td><b><a href="https://haorandai.com/practical-t2i-backdoors/">Practical, Generalizable and Robust Backdoor Attacks on Text-to-Image Diffusion Models</a></b><br><sub>arXiv 2025</sub><br><br>A backdoor attack on text-to-image diffusion models that uses natural, readable prompts, transfers across models, and evades current defenses.<br><br><a href="https://haorandai.com/practical-t2i-backdoors/">Project</a> · <a href="https://arxiv.org/abs/2508.01605">arXiv</a> · <a href="https://github.com/haorandai/backdoorT2I">Code</a></td>
+</tr>
+<tr>
+<td width="34%"><a href="https://link.springer.com/article/10.1186/s42400-024-00279-9"><img src="assets/pubs/evilprompt.jpg" alt="EvilPromptFuzzer: Generating Inappropriate Content Based on Text-to-Image Models overview figure" width="100%"></a></td>
+<td><b><a href="https://link.springer.com/article/10.1186/s42400-024-00279-9">EvilPromptFuzzer: Generating Inappropriate Content Based on Text-to-Image Models</a></b><br><sub>Cybersecurity 2024</sub><br><br>A fuzzing method that automatically finds prompts driving text-to-image models to generate inappropriate content.<br><br><a href="https://link.springer.com/article/10.1186/s42400-024-00279-9">Paper</a></td>
+</tr>
+</table>
 
 The full list is on my [publications page](https://haorandai.com/publications/).
 
