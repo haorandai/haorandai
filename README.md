@@ -7,7 +7,7 @@ I'm a Research Scientist at [QuiverAI](https://quiver.ai/), where I work on SVG 
 
 I'm open to research collaborations and industry opportunities. Email me or [book a coffee chat](https://calendar.app.google/PJjm8BtGCkiXdk3x9).
 
-[Homepage (papers and projects)](https://haorandai.com/) · [Google Scholar](https://scholar.google.com/citations?user=bZXkw3QAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/haorandai) · [Email](mailto:haorand16@gmail.com)
+[Homepage (papers and projects)](https://haorandai.com/) · [Google Scholar](https://scholar.google.com/citations?user=bZXkw3QAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/haorandai) · [X](https://x.com/HHarryD) · [Email](mailto:haorand16@gmail.com)
 
 <!--
 Last reviewed: 2026-09-27.
