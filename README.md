@@ -5,7 +5,7 @@
 
 I'm a Research Scientist at [QuiverAI](https://quiver.ai/), where I work on SVG generation and build agent harnesses, and a CS PhD candidate at [Illinois Tech](https://www.iit.edu/). My research is on trustworthy and efficient generative AI.
 
-I'm open to research collaborations and industry opportunities. Email me or [book a coffee chat](https://calendar.app.google/PJjm8BtGCkiXdk3x9).
+I'm open to research collaborations and industry opportunities. Email me or [book a coffee chat](https://calendar.app.google/xCTjoLaTQdL3nXgb7).
 
 [Homepage (papers and projects)](https://haorandai.com/) · [Google Scholar](https://scholar.google.com/citations?user=bZXkw3QAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/haorandai) · [X](https://x.com/HHarryD) · [Email](mailto:haorand16@gmail.com)
 
